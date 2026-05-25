@@ -1,22 +1,40 @@
-<<<<<<< HEAD
-# agenda_app
+# Agenda Flutter
 
-A new Flutter project.
+Aplicativo de gerenciamento de tarefas desenvolvido em Flutter utilizando Dart.
 
-## Getting Started
+# Funcionalidades
 
-This project is a starting point for a Flutter application.
+* Cadastro de tarefas
+* Seleção de data
+* Seleção de horário
+* Organização visual por cores
+* Alteração de status
+* Exclusão de tarefas
 
-A few resources to get you started if this is your first Flutter project:
+# Tecnologias utilizadas
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter-agenda-.app
-Aplicativo de agenda desenvolvido em Flutter utilizando Dart.
->>>>>>> 77e24f21214d637194f5fb0bbbed2bcd3b25e4a2
+# Screenshots
+
+# Tela inicial
+
+![Tela Inicial](screenshots/PG.1.png)
+
+# DATA
+
+![Cadastro](screenshots/PG.2.png)
+
+# HORA
+
+![Lista](screenshots/PG.3.png)
+
+# LEMBRETE
+
+Projeto desenvolvido para prática de desenvolvimento mobile, lógica de programação e construção de interfaces modernas utilizando Flutter.
+
+# Autor
+
+Guilherme Silva Polonio
